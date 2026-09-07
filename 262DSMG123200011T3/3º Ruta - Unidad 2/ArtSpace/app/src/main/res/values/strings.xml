@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <!-- Golden Gate Bridge -->
+    <string name="sailing_bridge">Sailing Under the Bridge</string>
+    <string name="sailing_bridge_artist">Kat Kuan</string>
+    <string name="sailing_bridge_year">2017</string>
+    <string name="sailing_bridge_source">Oil on canvas</string>
+
+    <!-- Blue Rose -->
+    <string name="blue_rose">Still Life of Blue Rose and Other Flowers</string>
+    <string name="blue_rose_artist">Owen Scott</string>
+    <string name="blue_rose_year">2021</string>
+    <string name="blue_rose_source">Pastel on paper</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
