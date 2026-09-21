@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">MyCity</string>
+
+    <string name="state_name">Lima</string>
+    <string name="recommendations_text">Recomendaciones</string>
+    <string name="recommended_place">Recomendado</string>
+
+    <string name="back_button">Atrás</string>
+
+    <string name="coffee_shops">Cafeterías</string>
+    <string name="restaurants">Restaurantes</string>
+    <string name="kid_places">Lugares para niños</string>
+    <string name="parks">Parques</string>
+    <string name="shopping_centers">Centros comerciales</string>
+
+    <string name="categories_text">Categorías</string>
+
+    <!-- Coffee Shops -->
+    <string name="coffe_shop_title_1">Café de Lima</string>
+    <string name="coffe_shop_detail_1">
+        Un lugar ideal para disfrutar de un buen café y conocer un ambiente tradicional de la ciudad de Lima.
+    </string>
+
+    <string name="coffe_shop_title_2">The Coffee Road</string>
+    <string name="coffe_shop_detail_2">
+        Una cafetería moderna donde puedes disfrutar de café de especialidad y diferentes opciones para acompañarlo.
+    </string>
+
+    <string name="coffe_shop_title_3">Bodega de la Trattoria</string>
+    <string name="coffe_shop_detail_3">
+        Un espacio agradable para disfrutar de café, postres y diferentes opciones gastronómicas en Lima.
+    </string>
+
+    <!-- Restaurants -->
+    <string name="restaurant_title_1">Punto Azul</string>
+    <string name="restaurant_detail_1">
+        Restaurante conocido por sus platos de cocina marina y especialidades peruanas.
+    </string>
+
+    <string name="restaurant_title_2">La Rosa Náutica</string>
+    <string name="restaurant_detail_2">
+        Restaurante ubicado frente al mar que ofrece una variedad de platos de la gastronomía peruana.
+    </string>
+
+    <string name="restaurant_title_3">Isolina</string>
+    <string name="restaurant_detail_3">
+        Restaurante de Barranco especializado en comida peruana tradicional y platos caseros.
+    </string>
+
+    <!-- Kid-Friendly Places -->
+    <string name="kid_friendly_place_title_1">Parque de las Leyendas</string>
+    <string name="kid_friendly_place_detail_1">
+        Un espacio ideal para disfrutar en familia, conocer animales y aprender sobre la historia y cultura del Perú.
+    </string>
+
+    <string name="kid_friendly_place_title_2">Circuito Mágico del Agua</string>
+    <string name="kid_friendly_place_detail_2">
+        Un lugar familiar con fuentes de agua, espectáculos de luces y espacios para disfrutar al aire libre.
+    </string>
+
+    <string name="kid_friendly_place_title_3">Parque de la Amistad</string>
+    <string name="kid_friendly_place_detail_3">
+        Un espacio recreativo para disfrutar de áreas verdes, paseos y actividades en familia.
+    </string>
+
+    <!-- Parks -->
+    <string name="park_title_1">Parque del Amor</string>
+    <string name="park_detail_1">
+        Un parque ubicado en el Malecón de Miraflores con vistas al océano Pacífico y espacios para caminar.
+    </string>
+
+    <string name="park_title_2">Parque Kennedy</string>
+    <string name="park_detail_2">
+        Uno de los parques más conocidos de Miraflores, rodeado de restaurantes, tiendas y espacios para pasear.
+    </string>
+
+    <string name="park_title_3">Malecón de Miraflores</string>
+    <string name="park_detail_3">
+        Un lugar ideal para caminar, disfrutar de la vista al mar y conocer diferentes parques y miradores.
+    </string>
+
+    <!-- Shopping Centers -->
+    <string name="shopping_center_title_1">Larcomar</string>
+    <string name="shopping_center_detail_1">
+        Centro comercial frente al océano Pacífico con tiendas, restaurantes y opciones de entretenimiento.
+    </string>
+
+    <string name="shopping_center_title_2">Jockey Plaza</string>
+    <string name="shopping_center_detail_2">
+        Uno de los principales centros comerciales de Lima, con tiendas, restaurantes y entretenimiento.
+    </string>
+
+    <string name="shopping_center_title_3">Plaza San Miguel</string>
+    <string name="shopping_center_detail_3">
+        Centro comercial con una amplia variedad de tiendas, restaurantes y espacios de entretenimiento.
+    </string>
+</resources>
